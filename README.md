@@ -6,6 +6,7 @@ For documentation, see [ether/etherpad-lite](https://github.com/ether/etherpad-l
 
 ## Links
 
+- [etherpad-sqlite on github](https://github.com/Tiim/etherpad-sqlite-docker)
 - [etherpad-sqlite on dockerhub](https://hub.docker.com/r/tiimb/etherpad-sqlite)
 - [etherpad github](https://github.com/ether/etherpad-lite)
 - [etherpad on dockerhub](https://hub.docker.com/r/tiimb/etherpad/etherpad)
